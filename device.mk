@@ -27,6 +27,10 @@ PRODUCT_COPY_FILES += \
     device/moto/shamu/fstab.shamu:root/fstab.shamu \
     device/moto/shamu/ueventd.shamu.rc:root/ueventd.shamu.rc
 
+# Elite Init.d
+PRODUCT_COPY_FILES += \
+    device/moto/shamu/etc/init.d/92Elite:system/etc/init.d
+    
 # Input device files for shamu
 PRODUCT_COPY_FILES += \
     device/moto/shamu/gpio-keys.kl:system/usr/keylayout/gpio-keys.kl \
