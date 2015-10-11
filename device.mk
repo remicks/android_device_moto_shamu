@@ -29,7 +29,7 @@ PRODUCT_COPY_FILES += \
 
 # Elite Init.d
 PRODUCT_COPY_FILES += \
-    device/moto/shamu/etc/init.d/92Elite:system/etc/init.d
+    device/moto/shamu/etc/init.d/92Elite:system/etc/init.d/92Elite
     
 # Input device files for shamu
 PRODUCT_COPY_FILES += \
