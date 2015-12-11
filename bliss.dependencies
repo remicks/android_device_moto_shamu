@@ -1,0 +1,15 @@
+
+[
+  {
+    "repository": "Elite-Kernels/elite_shamu",
+    "target_path": "kernel/moto/shamu",
+    "remote": "github",
+    "revision": "Elite-M-upstream"
+  },
+  {
+   "remote": "github",
+   "repository": "TheMuppets/proprietary_vendor_motorola",
+   "target_path": "vendor/motorola",
+   "revision": "cm-13.0"
+ }
+]
