@@ -24,7 +24,7 @@ ENABLE_CPUSETS := true
 
 TARGET_NO_BOOTLOADER := true
 
-WITH_DEXPREOPT := true
+#WITH_DEXPREOPT := true
 
 # Inline kernel building
 TARGET_KERNEL_CONFIG := shamu_defconfig
