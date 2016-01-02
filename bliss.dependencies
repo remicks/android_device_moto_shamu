@@ -1,10 +1,10 @@
 
 [
   {
-    "repository": "Elite-Kernels/elite_shamu",
+    "repository": "team-vortex/Singularity",
     "target_path": "kernel/moto/shamu",
     "remote": "github",
-    "revision": "Elite-M-upstream"
+    "revision": "Singularity"
   },
   {
    "remote": "github",
