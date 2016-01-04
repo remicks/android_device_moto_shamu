@@ -4,7 +4,7 @@
     "repository": "team-vortex/Singularity",
     "target_path": "kernel/moto/shamu",
     "remote": "github",
-    "revision": "Singularity"
+    "revision": "bliss"
   },
   {
    "remote": "github",
