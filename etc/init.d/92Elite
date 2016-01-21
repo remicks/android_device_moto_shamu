@@ -43,16 +43,16 @@ chmod 444 /dev/frandom
  #sweep right = 1
  #sweep left = 2
  #sweep left or right = 3
-  echo 2 > /sys/android_touch/sweep2sleep
+  echo 0 > /sys/android_touch/sweep2sleep
 
 #Set Wake Gesture Vibrate strength
 #range 0-20
- echo 20 > /sys/android_touch/vib_strength
+ echo 15 > /sys/android_touch/vib_strength
 
 #Set FASTCHARGE
  #disable = 0
  #enable = 1
-  echo 0 > /sys/kernel/fast_charge/force_fast_charge
+  echo 1 > /sys/kernel/fast_charge/force_fast_charge
 
 #Set IO read ahead
 echo "deadline" > /sys/block/mmcblk0/queue/scheduler
