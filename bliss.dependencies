@@ -1,10 +1,10 @@
 
 [
   {
-    "repository": "flar2/shamu",
+    "repository": "Elite-Kernels/elite_shamu",
     "target_path": "kernel/moto/shamu",
     "remote": "github",
-    "revision": "ElementalX-3.00"
+    "revision": "Elite-M"
   },
   {
    "remote": "github",
